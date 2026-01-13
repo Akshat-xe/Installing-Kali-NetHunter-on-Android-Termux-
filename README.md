@@ -1,3 +1,6 @@
+<img src="https://i.pinimg.com/736x/d4/23/3f/d4233fb85d1c8fa709d14aea402f79c6.jpg" width="100%" alt="Dark Aura Header" />
+
+
 # 🔯 Phase 1: Download the Essentials
 Before we do any hacking, we need the right apps. Do not use the Play Store versions; they are outdated and will not work.
 
