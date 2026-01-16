@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/736x/d4/23/3f/d4233fb85d1c8fa709d14aea402f79c6.jpg" width="100%" alt="Dark Aura Header" />
+<img src="https://i.pinimg.com/736x/b4/32/ae/b432ae08130d7cffc3e4364ed7d648be.jpg" width="100%" alt="Dark Aura Header" />
 
 
 # 🔯 Phase 1: Download the Essentials
